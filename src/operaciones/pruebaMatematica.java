@@ -7,6 +7,6 @@ public class pruebaMatematica {
         ob1.a = 25;
         ob1.b = 35;
         ob1.sumar();
-
+        //crear metodos con parametros
     }
 }
